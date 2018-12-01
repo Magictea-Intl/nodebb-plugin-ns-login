@@ -1,6 +1,6 @@
 {
-  "name": "nodebb-plugin-ns-login-2",
-  "version": "2.3.1",
+  "name": "nodebb-plugin-ns-login-reloaded",
+  "version": "2.3.2",
   "description": "External login check for your NodeBB. Provides API endpoint for user login.",
   "main": "./plugin/index.js",
   "scripts": {

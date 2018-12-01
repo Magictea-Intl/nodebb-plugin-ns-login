@@ -1,5 +1,5 @@
 {
-  "id": "nodebb-plugin-ns-login-2",
+  "id": "nodebb-plugin-ns-login-reloaded",
   "name": "NodeBB Login",
   "description": "Simple API endpoint for external login. Special use case: external login check if user's credentials are valid.",
   "url": "https://github.com/Magictea-Intl/nodebb-plugin-ns-login",
