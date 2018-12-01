@@ -1,6 +1,6 @@
 {
-  "name": "nodebb-plugin-ns-login",
-  "version": "2.3.0",
+  "name": "nodebb-plugin-ns-login-2",
+  "version": "2.3.1",
   "description": "External login check for your NodeBB. Provides API endpoint for user login.",
   "main": "./plugin/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicolasSiver/nodebb-plugin-ns-login.git"
+    "url": "git+https://github.com/Magictea-Intl/nodebb-plugin-ns-login.git"
   },
   "keywords": [
     "nodebb",
@@ -18,12 +18,12 @@
     "check",
     "simple"
   ],
-  "author": "Nicolas Siver",
+  "author": "BBleae Sip",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-login/issues"
+    "url": "https://github.com/Magictea-Intl/nodebb-plugin-ns-login/issues"
   },
-  "homepage": "https://github.com/NicolasSiver/nodebb-plugin-ns-login#readme",
+  "homepage": "https://github.com/Magictea-Intl/nodebb-plugin-ns-login#readme",
   "dependencies": {
     "async": "^2.1.5",
     "express-brute": "^1.0.1",
